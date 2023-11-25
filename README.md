@@ -50,7 +50,4 @@ Potential areas for future development may include expanding the dataset, trying
 ## License
 
 This project is licensed under the [Your License] - see the [LICENSE](LICENSE) file for details.
-
---- 
-
-Make sure to replace placeholders like `[Your Name]`, `[Contributor 2, if any]`, and `[Your License]` with your actual information. If you have a specific license for your project, mention it in the `LICENSE` file.
+.
